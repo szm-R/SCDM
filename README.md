@@ -4,4 +4,4 @@ This repository includes the codes and descriptions of the Self-Control Developm
 
 A comprehensive description of the model is available in the ODD.html file (using the ODD (Overview, Design concepts, and Details) protocol for describing individual- and agent-based models (Grimm et al. 2006), as updated by Grimm et al. (2020)).
 
-Moreover, you can find a detailed discussion of the systematic experiments we carried out with the model and access the results in the SimulationData directory.
+Moreover, you can find a detailed discussion of the systematic experiments we carried out with the model in the file SystematicExperiments.html, and access the results in the SimulationData directory.
